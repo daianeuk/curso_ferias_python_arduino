@@ -1,0 +1,52 @@
+
+
+
+Principais conceitos do Python:
+
+
+
+
+Instalar o python 3.9.1
+
+	https://www.python.org/downloads/
+
+ensinar sobre o CMD
+
+	
+	Prompt de Comando é um interpretador de linha de comando no OS/2 e de sistemas baseados no Windows 
+
+	upgrade do PIP ( a versão mais nova é a 20.3.3)
+
+	python -m pip install --upgrade pip
+
+	"pip é um sistema de gerenciamento de pacotes padrão de facto usado para instalar e gerenciar pacotes 
+	de software escritos em Python."
+
+instalar a ide do Arduino:
+
+instalar o pyfirmata:
+
+	pip install pyfirmata
+
+exemplos > firmata > standardFirmata
+
+Verificar se no computador tem descompactador de arquivos: 
+
+	ex: winrar
+
+
+instalar o Driver do Arduino:
+
+	https://canaldapoeira.com.br/artes/
+
+
+	
+
+
+
+
+
+
+
+
+
