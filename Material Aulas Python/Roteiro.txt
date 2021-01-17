@@ -1,0 +1,42 @@
+					Preparação das máquinas:
+
+verifcar se existe alguma versão do python, instalar;
+
+atualizar a versão do pip:
+
+	python -m pip install — upgrade pip
+
+instalar o Arduino IDE;
+
+baixar o pyfirmata:
+
+	pip install pyfirmata
+
+
+
+
+
+						Conteúdo das Aulas:
+
+Aula 01: 
+
+	Minha ideia é fazer uma introdução da linguagem, apresentar os principais conceitos; usar a IDLE do python como
+editor de textos;
+
+
+Aula 02:
+
+	Explicar e apresentar o Arduino, toda a pinagem e componentes, explicar e fazer a montagem de um circuito básico;
+usar o tinkercad para simular um projeto simples
+
+
+Aula 03:
+
+	Montar um circuito com leds e fazer a programação; na própria placa; 
+
+
+Aula04:
+
+	Fazer um circuito com entrada e saída. Botões e leds. Montagem e a programação; na própria placa; 
+
+
